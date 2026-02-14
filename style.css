@@ -47,6 +47,12 @@ h1 {
     text-decoration: underline;
 }
 
+.disclaimer {
+    margin-top: 40px;
+    font-size: 12px;
+    color: #666;
+}
+
 #pdf-frame {
     width: 100%;
     height: calc(100vh - 100px);
